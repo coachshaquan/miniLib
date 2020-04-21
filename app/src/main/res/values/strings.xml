@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">miniLib</string>
+
+    <string name="add_book"> Add Book</string>
+
+    <string name="search_book">Search Book</string>
+
+    <string name="page_1_name">Login</string>
+    <string name="page_2_name">Checkout</string>
+    <string name="page_3_name">Browse</string>
+    <string name="page_4_name">Dynamic Product Page</string>
+    <string name="page_5_name">My Checkouts</string>
+    <string name="page_6_name">Suggestions</string>
+
+    <string name = "button_for_dpp_request">Learn More</string>
+    <string name = "button_for_book_request">Request this Book</string>
+    <string name= "button_for_search_page_intent">Search Page</string>
+    <string name="button_for_suggest_page_intent">Suggestions Page</string>
+</resources>
